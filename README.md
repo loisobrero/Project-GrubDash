@@ -1,5 +1,5 @@
 # Project-GrubDash
-# GrubDash Backend and API
+## GrubDash Backend and API
 GrubDash is a fictional company that operates an online food ordering and food delivery platform. 
 
 For this Thinkful project, I set up a RESTful API, wrote custom validation functions, created route handlers, and built specific API endpoints. 
@@ -14,9 +14,6 @@ This project will test your ability to build APIs with complex validation. Befor
 -Accessing relevant information through route parameters
 -Building an API following RESTful design principles
 -Writing custom middleware functions
-
-### Home Page:
-![home](/screenshots/home.jpg)
 
 ## Technology
 - Built with Node.js and Express server framework
